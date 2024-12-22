@@ -63,10 +63,3 @@ java filename
 ```
 If the execution is successful, you will see the output of the Java program.
 
-
-
-
-
-## 🔗 Links github
-https://github.com/lehieu2003/Mine-Sweeper
-
