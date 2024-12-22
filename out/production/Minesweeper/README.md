@@ -5,7 +5,6 @@ Minesweeper is a classic single-player puzzle game that originated in the 1960s.
 ## Control
 
 Minesweeper is controlled using the mouse. The default controls are:
-
 - left mouse is used to open button
 - right mouse is used to set flag
 
