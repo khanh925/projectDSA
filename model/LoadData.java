@@ -5,16 +5,17 @@ Phạm Hữu Duy Khánh - ITITIU19019
  */
 package model;
 
-import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.HashMap;
+import javax.imageio.ImageIO;
 
 public class LoadData {
     private HashMap<String, BufferedImage> listImage;
 
     public LoadData() {
         listImage = new HashMap<String , BufferedImage>();
+        
         try {
             BufferedImage imageIcon = ImageIO.read(new File("icon.png"));
             listImage.put("icon", imageIcon);
